@@ -39,6 +39,7 @@ body {
   padding: 1.5rem;
   margin: 1rem;
   border-radius: 1rem;
+  margin-bottom: 5rem;
   @media (min-width: 875px) {
     margin-top: 7rem;
     min-width: 800px;
